@@ -1,0 +1,12 @@
+# Redirects from what the browser requests to what we serve
+/blog/2019/11/using-zeit-now-proxy /posts/using-zeit-now-proxy
+/blog/2020/04/serverless-graphql-with-fauna-and-now /posts/serverless-graphql-with-fauna-and-now
+/blog/2020/03/theming-in-svelte /posts/theming-in-svelte
+/blog/2020/02/custom-theme-toggle /posts/custom-theme-toggle
+/blog/2020/06/new-express-fs-router-features /posts/new-express-fs-router-features
+/blog/2020/04/express-filesystem-routing /posts/express-filesystem-routing
+/blog/2019/01/global-eslint /posts/global-eslint
+/blog/2019/02/gatsby-mdx /posts/gatsby-mdx
+/blog/2019/01/a-new-dawn /posts/a-new-dawn
+/blog/2019/04/first-dev-conf /posts/first-dev-conf
+/blog/2019/02/enhancing-workflow-with-fish /posts/enhancing-workflow-with-fish

@@ -1,0 +1,48 @@
+{
+  "redirects": [
+    {
+      "source": "/blog/2019/11/using-zeit-now-proxy",
+      "destination": "/posts/using-zeit-now-proxy"
+    },
+    {
+      "source": "/blog/2020/04/serverless-graphql-with-fauna-and-now",
+      "destination": "/posts/serverless-graphql-with-fauna-and-now"
+    },
+    {
+      "source": "/blog/2020/03/theming-in-svelte",
+      "destination": "/posts/theming-in-svelte"
+    },
+    {
+      "source": "/blog/2020/02/custom-theme-toggle",
+      "destination": "/posts/custom-theme-toggle"
+    },
+    {
+      "source": "/blog/2020/06/new-express-fs-router-features",
+      "destination": "/posts/new-express-fs-router-features"
+    },
+    {
+      "source": "/blog/2020/04/express-filesystem-routing",
+      "destination": "/posts/express-filesystem-routing"
+    },
+    {
+      "source": "/blog/2019/01/global-eslint",
+      "destination": "/posts/global-eslint"
+    },
+    {
+      "source": "/blog/2019/02/gatsby-mdx",
+      "destination": "/posts/gatsby-mdx"
+    },
+    {
+      "source": "/blog/2019/01/a-new-dawn",
+      "destination": "/posts/a-new-dawn"
+    },
+    {
+      "source": "/blog/2019/04/first-dev-conf",
+      "destination": "/posts/first-dev-conf"
+    },
+    {
+      "source": "/blog/2019/02/enhancing-workflow-with-fish",
+      "destination": "/posts/enhancing-workflow-with-fish"
+    }
+  ]
+}
